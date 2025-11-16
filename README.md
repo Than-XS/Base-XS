@@ -50,8 +50,8 @@ global.author = "thanror"
 <br>
 
 ``` csharp
-> git clone https://github.com/Than-Clever/Base-Bot-Simple
-> cd Base-Bot-Simple
+> git clone https://github.com/Than-Clever/Simple-Base-Bot-WhatsApp
+> cd Simple-Base-Bot-WhatsApp
 > npm i
 > npm start
 ```
