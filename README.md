@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://files.catbox.moe/uw3tn4.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://files.catbox.moe/253ahp.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Base - Bot</h1>
 <p align="center">
@@ -27,7 +27,7 @@ global.author = "thanror"
 
 ***
 
-### Commandd untuk menjalankan Bot di Termux
+### Command untuk menjalankan Bot di Termux
 
 ``` bash
 > pkg install
