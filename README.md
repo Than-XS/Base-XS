@@ -35,8 +35,8 @@ global.author = "thanror"
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone https://github.com/Than-Clever/Base-Bot-Simple
-> cd Base-Bot-Simple
+> git clone https://github.com/Than-Clever/Simple-Base-Bot-WhatsApp
+> cd Simple-Base-Bot-WhatsApp
 > npm start
 ```
 
