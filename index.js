@@ -115,7 +115,7 @@ const start = async() => {
         let phoneNumber = await question("[ = ] - Enter the WhatsApp number you want to use as a bot  :  \n");
         let togel = phoneNumber.replace(/[^0-9]/g, '')
         await console.clear()
-        let pairCode = await client.requestPairingCode(togel.trim());
+        let pairCode = await client.requestPairingCode(togel.trim(), "THANBAIL");
         await sleep(2000)
         await console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${pairCode}`, randomcolor));
     };
@@ -732,4 +732,5 @@ fs.watchFile(file, () => {
     require(file);
 
 });
+
 
