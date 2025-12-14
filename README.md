@@ -9,10 +9,6 @@
   WhatsApp Multi Device Base • Built for Developers • Ready to Scale
 </p>
 
-<p align="center">
-  Repository: <a href="https://github.com/Than-Clever">github.com/Than-Clever</a>
-</p>
-
 ---
 
 ## 🚀 Overview
@@ -94,7 +90,7 @@ Steps:
 ## 📬 Contact
 
 <p align="center">
-  <b>Developer Contact</b><br><br>
+  <b>Owner Contact</b><br><br>
   <a href="https://t.me/thanror">💬 Chat on Telegram — @thanror</a>
 </p>
 
