@@ -25,9 +25,9 @@
 
 ## 📖 Overview
 
-**Base Bot** adalah project dasar WhatsApp Bot Multi Device yang dirancang untuk menjadi fondasi pengembangan bot sesuai kebutuhan Anda.
+**Base Bot** adalah project dasar WhatsApp Bot Multi Device yang dirancang sebagai fondasi pengembangan bot sesuai kebutuhan Anda.
 
-Project ini dibuat dengan struktur yang **ringkas, jelas, dan fleksibel**, sehingga mudah dikembangkan baik untuk:
+Project ini memiliki struktur yang **ringkas, jelas, dan fleksibel**, cocok untuk:
 - Bot pribadi
 - Bot komunitas
 - Bot store sederhana
@@ -37,11 +37,11 @@ Project ini dibuat dengan struktur yang **ringkas, jelas, dan fleksibel**, sehin
 
 ## ✨ Key Features
 
-- 📱 WhatsApp Multi Device
-- ⚡ Performa ringan & stabil
-- 🧩 Mudah dikustomisasi
-- 🔧 Konfigurasi sederhana
-- 📦 Cocok untuk pemula & lanjutan
+- 📱 WhatsApp Multi Device  
+- ⚡ Ringan & stabil  
+- 🧩 Mudah dikustomisasi  
+- 🔧 Konfigurasi sederhana  
+- 📦 Cocok untuk pemula & lanjutan  
 
 ---
 
@@ -54,55 +54,60 @@ Project ini dibuat dengan struktur yang **ringkas, jelas, dan fleksibel**, sehin
 
 ## ⚙️ Configuration
 
-Sebelum menjalankan bot, silakan atur konfigurasi pada file `config.js`:
+Edit file `config.js` sebelum menjalankan bot:
 
-```js
-global.owner = ['628960XXXXX'] // Nomor owner
-global.connect = true // Ubah ke false untuk login via QR Code
-global.url = "https://t.me/xs_exposed"
-global.url2 = "https://t.me/xs_exposed"
-global.packname = "thanror"
-global.author = "thanror"
+    global.owner = ['628960XXXXX'] // Nomor owner
+    global.connect = true // false = login via QR Code
+    global.url = "https://t.me/xs_exposed"
+    global.url2 = "https://t.me/xs_exposed"
+    global.packname = "thanror"
+    global.author = "thanror"
 
-📲 Run on Termux (Android)
+---
 
-pkg install
-pkg upgrade
-pkg install git
-pkg install ffmpeg && pkg install libwebp
-pkg install nodejs
-git clone https://github.com/Than-Clever/Base-Bot-Simple
-cd Base-Bot-Simple
-npm start
+## 📲 Run on Termux (Android)
 
-💻 Run on Windows
+    pkg install
+    pkg upgrade
+    pkg install git
+    pkg install ffmpeg && pkg install libwebp
+    pkg install nodejs
+    git clone https://github.com/Than-Clever/Base-Bot-Simple
+    cd Base-Bot-Simple
+    npm start
 
-Requirements
+---
 
-NodeJS
+## 💻 Run on Windows
 
-Git
+### Requirements
+- NodeJS  
+- Git  
+- FFmpeg  
+- libwebp  
 
-FFmpeg
+    git clone https://github.com/Than-Clever/Base-Bot-Simple
+    cd Base-Bot-Simple
+    npm install
+    npm start
 
-libwebp
+---
 
-
-git clone https://github.com/Than-Clever/Base-Bot-Simple
-cd Base-Bot-Simple
-npm install
-npm start
-
-📬 Contact
+## 📬 Contact
 
 <p align="center">
   <b>Developer Contact</b><br>
   <a href="https://t.me/thanror">Telegram — @thanror</a>
 </p>
 
-<h2 align="center">Thank You for Using This Project</h2><p align="center">
+---
+
+<h2 align="center">Thank You for Using This Project</h2>
+
+<p align="center">
   <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <i>Built as a simple base, made for endless possibilities.</i>
 </p>
-```
