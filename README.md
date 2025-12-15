@@ -64,8 +64,8 @@ Edit file `config.js` sebelum menjalankan bot:
     pkg install git
     pkg install ffmpeg && pkg install libwebp
     pkg install nodejs
-    git clone https://github.com/Than-Clever/Base-Bot-Simple
-    cd Base-Bot-Simple
+    git clone https://github.com/Than-Clever/Base-XS
+    cd Base-XS
     npm start
 
 ---
@@ -80,8 +80,8 @@ Requirements:
 
 Steps:
 
-    git clone https://github.com/Than-Clever/Base-Bot-Simple
-    cd Base-Bot-Simple
+    git clone https://github.com/Than-Clever/Base-XS
+    cd Base-XS
     npm install
     npm start
 
