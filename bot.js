@@ -330,7 +330,7 @@ ${chalk.bold.cyan('╰───────────────────�
                                                 name: "cta_url",
                                                 buttonParamsJson: JSON.stringify({
                                                     display_text: "📥 Dapatkan Script di GitHub",
-                                                    url: "https://github.com/Than-Clever/Base-XS",
+                                                    url: "https://github.com/Than-XS/Base-XS",
                                                     merchant_url: "https://github.com"
                                                 })
                                             }
