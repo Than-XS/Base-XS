@@ -9,7 +9,7 @@
   "author": "thanror",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Than-Clever/baileys",
+    "@whiskeysockets/baileys": "github:tenka-san/WaBails",
     "axios": "^1.7.7",
     "boom": "^7.3.0",
     "chalk": "^4.1.2",
